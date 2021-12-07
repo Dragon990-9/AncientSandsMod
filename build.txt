@@ -1,0 +1,4 @@
+displayName = Chronos Mod
+author = Dragon990
+version = 0.2.1
+homepage = https://tmodloader.net/
