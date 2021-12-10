@@ -37,7 +37,7 @@ namespace AncientSandsMod.NPCs.Animals
 
 		public override float SpawnChance(NPCSpawnInfo spawnInfo)
 		{
-			return !Main.dayTime ? 0.2f : 0;
+			return !Main.dayTime && NPC.downedBoss1 ? 0.2f : 0;
 
 		}
 
