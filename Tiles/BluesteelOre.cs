@@ -27,7 +27,7 @@ namespace AncientSandsMod.Tiles
 			soundType = SoundID.Tink;
 			soundStyle = 1;
 			//mineResist = 4f;
-			minPick = 55;
+			minPick = 70;
 		}
 	}
 }
