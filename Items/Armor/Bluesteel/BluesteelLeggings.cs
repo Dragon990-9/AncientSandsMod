@@ -19,7 +19,7 @@ namespace AncientSandsMod.Items.Armor.Bluesteel
 			item.height = 18;
 			item.value = 20000;
 			item.rare = ItemRarityID.White;
-			item.defense = 4;
+			item.defense = 6;
 		}
 
 		public override void UpdateEquip(Player player)
