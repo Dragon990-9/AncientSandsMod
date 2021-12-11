@@ -21,7 +21,7 @@ namespace AncientSandsMod.Items.Tools
 			item.height = 42;
 			item.useTime = 17;
 			item.useAnimation = 17;
-			item.pick = 61;
+			item.pick = 54;
 			item.useStyle = ItemUseStyleID.SwingThrow;
 			item.knockBack = 6;
 			item.value = 10254;
